@@ -61,6 +61,10 @@ Silver (Clean Parquet Data)
 ↓  
 Gold (Enriched Analytics Dataset)
 
+## Architecture
+<img width="761" height="220" alt="image" src="https://github.com/user-attachments/assets/379638de-6dda-4e23-96c0-6b374508bbe4" />
+
+
 ## Author
 
 Jamil Al-rubaye  
